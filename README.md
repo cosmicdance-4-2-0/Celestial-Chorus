@@ -1,4 +1,4 @@
-#Celestial Chrorus
+Celestial Chrorus
 
 # Weighted Trait Gestalt NPCs  
 *A composable personality-vector model for game agents*
